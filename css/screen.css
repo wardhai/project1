@@ -44,14 +44,15 @@ body {
   background-repeat: no-repeat;
   background-size: 350px 800px;
   width: 75%;
-  }                 
-	p { 
-	font-style: italic ;
-	font-family: "Times New Roman";
-	color: darkgray;
-	text-align: center;
-	padding: 20px;
-	font-size: 20px;
+  }       
+  
+	 p { 
+	 font-style: italic ;
+	 font-family: "Times New Roman";
+	 color: darkgray;
+	 text-align: center;
+	 padding: 20px;
+	 font-size: 20px;
 	}
- }
+}
  
