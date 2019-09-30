@@ -1,0 +1,36 @@
+body {
+     background-color: RosyBrown;
+     background-size: cover;
+     text-align: center;
+}
+
+#title {
+  padding: .5em .5em .2em .5em;
+  margin: .5em;
+  font-size: 20px;
+  font-family: "Pacifico", sans-serif;
+  
+}
+ h1 {
+    font-family: "Pacifico", sans-serif;
+	text-align: center;
+	color: white;
+	padding: 20px;
+	font-size: 40px;
+ }
+	p { 
+	font-style: italic ;
+	font-family: "Times New Roman";
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+  .submit-button {
+	background-color: DarkGray;
+    border-radius: 25px;
+	color: white;
+	font-family: "Pacifico", sans-serif;
+  }
+ 
+ 
