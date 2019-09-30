@@ -40,6 +40,9 @@ body {
  
  @media only screen and (max-width: 600px) {
 body {
-
+  background-image: url("https://thumbs.dreamstime.com/z/funny-kittens-peeking-white-background-80383765.jpg");
+  background-repeat: no-repeat;
+  background-size: 950px 600px;
+  }                 
 }
  
