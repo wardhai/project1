@@ -41,10 +41,10 @@ body {
  @media only screen and (max-width: 600px) {
 body {
 	
-  background-image: url("https://thumbs.dreamstime.com/z/funny-kittens-peeking-white-background-80383765.jpg");
-  background-repeat: no-repeat;
-  background-size: 350px 800px;
-  width: 75%;
+     background-image: url("https://thumbs.dreamstime.com/z/funny-kittens-peeking-white-background-80383765.jpg");
+     background-repeat: no-repeat;
+     background-size: 350px 800px;
+     width: 75%;
   }       
   
 	 p { 
@@ -58,3 +58,4 @@ body {
   }
   
  }
+}
