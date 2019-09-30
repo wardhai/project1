@@ -3,7 +3,7 @@ body {
      background-color: RosyBrown;
      background-size: cover;
      text-align: center;
-	 background: url("kitten.jpg");
+	 background: url("https://thumbs.dreamstime.com/z/funny-kittens-peeking-white-background-80383765.jpg");
 }
 
 #title {
@@ -40,7 +40,7 @@ body {
  
  @media only screen and (max-width: 600px) {
 body {
-  background-image: url("kitten.jpg");
+  background-image: url("https://thumbs.dreamstime.com/z/funny-kittens-peeking-white-background-80383765.jpg");
   background-repeat: no-repeat;
   background-size: 1100px 800px;
  
