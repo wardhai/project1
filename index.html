@@ -16,28 +16,31 @@
   <form method="POST" autocomplete="on" action="#null">
     <div id="form_body">
 		<fieldset>
-        <div id="first_name_field">
-		<p>
-          <label>First Name: <input type="text" name="first_name_field"></label>
-		</p>
-        </div>
-        <div id="last_name_field">
-		<p>
-          <label>Last Name: <input type="text" name="last_name_field"></label>
-		</p>
-        </div>
-		<div id="phone_field">
-		<p>
-          <label>Phone Number: <input type="number" name="phone_field"></label>
-		</p>
-		</div>
-        <div id="email_field">
-		<p>
-          <label>Email Address: <input type="email" name="email_field"></label>
-		</p>
+			<div>
+				 <label id="form2">First Name:</label>
+				</div>
+				 <input type="text" name="first_name_field">
+				<div>
+				 <label id="form3">Last Name:</label>
+				</div>
+				 <input type="text" name="last_name_field">
+				<div>
+				 <label id="form4">Phone Number:</label>
+				</div>
+				 <input type="tel" name="phone_field" >
+				<div>
+				 <label id="form5">Email Address:</label>
+				</div>
+				 <input type="email" name="email_field" >
+				<div>
+				 <label id="form6">Date of Birth:</label>
+				</div>
+				<input type="text" name="dob_field" >
         </fieldset>
-    </div>
-    <input type="submit" value="Foster Today!" onClick="AlertScreen()" class="submit-button">
+     </div>
+	<div>
+     <input type="submit" value="Foster Today!" onClick="AlertScreen()" class="submit-button">
+	</div>
   </form>
 	  <p> This Website Was Created by Wardha Iftikhar </p>
 </body>
