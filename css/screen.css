@@ -132,6 +132,7 @@ h1 {
 	 padding-top: 5px;	
      font-size: 4.16em; /* 66.56 */
  } 
+ 
  input { 
 	 display: inline-block;
 	 font-style: italic ;
@@ -170,5 +171,5 @@ form, #form2, #form3, #form4, #form5, #form6 {
 	 font-family: 'Lobster', cursive;
 	 font-size: 1.3em;
 	 padding: 20px;
-}
+	}
 }
